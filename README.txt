@@ -1,7 +1,5 @@
 Library Management System (Python)
 
-This is a console-based library system made using Python OOP. It supports adding books, registering users, borrowing books, returning books, viewing all books, and searching books by title.
-
 FEATURES:
 - Add new books
 - Register new users
@@ -35,4 +33,4 @@ HOW TO RUN:
 2. Run:
    python library.py
 
-The complete Python code is included in the program file.
+
